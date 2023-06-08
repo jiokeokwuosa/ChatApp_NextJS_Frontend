@@ -18,10 +18,11 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  /* background-color: black; */
+  background: linear-gradient(119.73deg, #5fe3c0 0%, #3B80BE 100%) !important;
+  font-family: monospace !important;
+}
+
+img {
+  height: max-content !important;
 }

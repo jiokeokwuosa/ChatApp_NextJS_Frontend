@@ -35,9 +35,10 @@ $ npm run dev
 
 None
 
-## Template UI
+## UI
+![Screenshot (1529)](https://github.com/jiokeokwuosa/ChatApp_NextJS_Frontend/assets/33726993/ee3873dd-fcb9-41ef-b28c-474c2ffbaa4d)
+![Screenshot (1530)](https://github.com/jiokeokwuosa/ChatApp_NextJS_Frontend/assets/33726993/0cb23bae-6b68-4efd-8bf0-9767e4df78c8)
 
-None
 
 ## Author
 

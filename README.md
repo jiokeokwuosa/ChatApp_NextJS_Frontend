@@ -6,7 +6,7 @@ A chat application built on Typescipt and React(Next Js)
 - Users can submit name to enter chat room
 - Users should be able to post on the chat in real time
 - User should be able to see existing chat
-- Users should be able to see who is currently typing on the chat
+- Users should be able to see who is currently typing on the chat(not fully done)
 
 ## Technologies
 

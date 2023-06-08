@@ -26,3 +26,7 @@ body {
 img {
   height: max-content !important;
 }
+
+.joinButton{
+  background: linear-gradient(119.73deg, #5fe3c0 0%, #3B80BE 100%) !important;
+}

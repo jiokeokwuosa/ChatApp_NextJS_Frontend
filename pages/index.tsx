@@ -5,7 +5,7 @@ import EntryBox from "../components/EntryBox"
 import { io } from "socket.io-client"
 import { IChat, ITyping, IUser } from "../types"
 
-const socketUniversal = io('http://localhost:3001');
+const socketUniversal = io(`${process.env.NEXT_PUBLIC_SOCKET_URL}`);
 
 const Home: FC = () => {
 
@@ -16,7 +16,7 @@ const Home: FC = () => {
     
   useEffect(
     () => {
-      const socket = io('http://localhost:3001');
+      const socket = io(`${process.env.NEXT_PUBLIC_SOCKET_URL}`);
       socket.emit('findAllMessages', {}, (res: IChat[]) => {
         setChats(res)
       })

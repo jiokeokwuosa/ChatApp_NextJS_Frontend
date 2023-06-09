@@ -28,7 +28,7 @@ $ git clone https://github.com/jiokeokwuosa/ChatApp_NextJS_Frontend.git
 $ cd ChatApp_NextJS_Frontend
 $ create .env.local file and add the necessarily values
 $ npm install
-$ npm run dev
+$ npm run dev (Please make sure that the backend is running in the same port as specified in the doc)
 ```
 
 ## Tracker stories

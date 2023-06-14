@@ -1,4 +1,4 @@
-# Scanworks
+# CJ
 A chat application built on Typescipt and React(Next Js)
 
 ## Features
